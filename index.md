@@ -1,4 +1,5 @@
 # Content
+{:.no_toc}
 
 * content
 {:toc}
@@ -48,6 +49,7 @@ Comming soon
 | 18 | [Move](#move) | Fly/Float/Phase/Aether |
 | 19 | Annihilation | Destroy One/... A Lot/... With Precision/Aether |
 | 20 | [Snow](#snow) | Remove Heat/Shape Ice/Snowstorm/Aether |
+
 
 ## Fate
 [![](img/fate.png)](img/fate.png)
