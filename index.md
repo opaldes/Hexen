@@ -1,13 +1,30 @@
-
-* Content
-{:toc}
-
+# Contents
+[*Character Creation*](#character_creation)
+[*End Of Session*](#end_of_session)
+[*Color Overview*](#color_overview)
+[*Character File*](#character_file)
 # Character Creation
 ## General Creation
-Follow the steps on the next Picture:
 [![](img/creation.png)](img/creation.png)
 ## Colors
 Either choose 3 colors or roll a d20 4 times to get your colors. You know one shade for each of your colors. Aether strenghten your color and is mostly useless at character creation without another shade. Shades which start with "..." modify already available shades of the corresponding color
+
+[*Click Here For The Color Overview*](#color_overview)
+
+## Bonds
+Choose 3 bonds
+[![](img/bonds.png)](img/bonds.png)
+## Coins/Heart
+### Spending Coins
+[![](img/coins.png)](img/coins.png)
+#### Spending Heart
+Comming soon
+# End of Session
+## Advancement
+[![](img/advancement.png)](img/advancement.png)
+## Coin Gain
+[![](img/coin_gain.png)](img/coin_gain.png)
+# Color Overview
 
 | D20 | Color | Shades |
 | :---: | :-----: | :------: |
@@ -32,20 +49,6 @@ Either choose 3 colors or roll a d20 4 times to get your colors. You know one sh
 | 19 | Annihilation | Destroy One/... A Lot/... With Precision/Aether |
 | 20 | [Snow](#snow) | Remove Heat/Shape Ice/Snowstorm/Aether |
 
-## Bonds
-Choose 3 bonds
-[![](img/bonds.png)](img/bonds.png)
-## Coins/Heart
-### Spending Coins
-[![](img/coins.png)](img/coins.png)
-#### Spending Heart
-Comming soon
-# End of Session
-## Advancement
-[![](img/advancement.png)](img/advancement.png)
-## Coin Gain
-[![](img/advancement.png)](img/advancement.png)
-# Color Overview
 ## Fate
 [![](img/fate.png)](img/fate.png)
 ## Time
