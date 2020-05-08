@@ -1,15 +1,15 @@
-# Contents
-[*Character Creation*](#character_creation)
-[*End Of Session*](#end_of_session)
-[*Color Overview*](#color_overview)
-[*Character File*](#character_file)
+# Content
+
+* content
+{:toc}
+
 # Character Creation
 ## General Creation
 [![](img/creation.png)](img/creation.png)
 ## Colors
 Either choose 3 colors or roll a d20 4 times to get your colors. You know one shade for each of your colors. Aether strenghten your color and is mostly useless at character creation without another shade. Shades which start with "..." modify already available shades of the corresponding color
 
-[*Click Here For The Color Overview*](#color_overview)
+[*Click Here For The Color Overview*](#color-overview)
 
 ## Bonds
 Choose 3 bonds
