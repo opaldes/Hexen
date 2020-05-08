@@ -17,7 +17,7 @@ Choose 3 bonds
 ## Coins/Heart
 ### Spending Coins
 [![](img/coins.png)](img/coins.png)
-#### Spending Heart
+### Spending Heart
 Comming soon
 # End of Session
 ## Advancement
