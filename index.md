@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/opaldes/Hexen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* Content
+{:toc}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Character Creation
+## General Creation
+Follow the steps on the next Picture:
+[![](img/creation.png)](img/creation.png)
+## Colors
+Either choose 3 colors or roll a d20 4 times to get your colors. You know one shade for each of your colors. Aether strenghten your color and is mostly useless at character creation without another shade. Shades which start with "..." modify already available shades of the corresponding color
 
-### Markdown
+| D20 | Color | Shades |
+| :---: | :-----: | :------: |
+| 1 | Telekinetic | Manipulate/Force/Protect/Aether |
+| 2 | Thought | Beliefs/Actions/Convictions/Aether |
+| 3 | Emotions | Create Emotions/Manipulate Atmosphere/Impact/Aether |
+| 4 | Blood | Heal/Hurt/Sense/Aether |
+| 5 | Space | Portals/Blink/Journey/Aether |
+| 6 | [Fate](#fate) | Accident/Coincidence/Luck/Aether |
+| 7 | [Time](#time) | Slow Down/Quicken/Jump/Aether |
+| 8 | Shapechange | More/Less/Special/Aether |
+| 9 | Polymorph | Make Dangerous/Make Timid/... Do It Quick/Aether |
+| 10 | Delusions | Illusions/Phenomena/Madness/Aether |
+| 11 | Visions | See The Past/See The Future/See The Present/Aether |
+| 12 | Hotness | Ignite/Control Fire/Control Lightning/Aether |
+| 13 | Technology | Data/Electronics/Mechanics/Aether |
+| 14 | [Undeath](#undeath) | Create/...Not So Slow/... With Names/Aether |
+| 15 | Beasts | Call/Control/Empower/Aether |
+| 16 | [Shadows](#shadows) | Animate Darkness/Shadow Door/Engulf/Aether |
+| 17 | Dreams | Put To Sleep/Dive/Materialize/Aether |
+| 18 | [Move](#move) | Fly/Float/Phase/Aether |
+| 19 | Annihilation | Destroy One/... A Lot/... With Precision/Aether |
+| 20 | [Snow](#snow) | Remove Heat/Shape Ice/Snowstorm/Aether |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/opaldes/Hexen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Bonds
+Choose 3 bonds
+[![](img/bonds.png)](img/bonds.png)
+## Coins/Heart
+### Spending Coins
+[![](img/coins.png)](img/coins.png)
+#### Spending Heart
+Comming soon
+# End of Session
+## Advancement
+[![](img/advancement.png)](img/advancement.png)
+## Coin Gain
+[![](img/advancement.png)](img/advancement.png)
+# Color Overview
+## Fate
+[![](img/fate.png)](img/fate.png)
+## Time
+[![](img/time.png)](img/time.png)
+## Shadows
+[![](img/shadow.png)](img/shadow.png)
+## Snow
+[![](img/snow.png)](img/snow.png)
+## Undeath
+[![](img/undeath.png)](img/undeath.png)
+## Move
+[![](img/move.png)](img/move.png)
+# Character File
+[Part 1](img/character_1.jpg)
+[Part 2](img/character_2.jpg)
